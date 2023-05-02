@@ -1,6 +1,6 @@
 # In-Browser-Text-Editor
 a text editor that runs in a browser. Included a video explaining the code.
-https://drive.google.com/file/d/1BfsAsXBA8g5n_ShhYl6XhIF-vSFPSr7C/view
+
 
 
 
@@ -20,7 +20,7 @@ Repository: https://github.com/adriansbruno/In-Browser-Text-Editor
 npm run build
 npm start
 ## Usage
-[![Video Name](https://drive.google.com/file/d/1BfsAsXBA8g5n_ShhYl6XhIF-vSFPSr7C/view)
+[![Video]https://drive.google.com/file/d/1BfsAsXBA8g5n_ShhYl6XhIF-vSFPSr7C/view
 
 ## License
 MIT license
